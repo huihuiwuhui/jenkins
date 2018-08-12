@@ -7,7 +7,7 @@
 	<groupId>com.hehe</groupId>
 	<artifactId>mm-web</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 	<name>mm-web</name>
 
 	<!-- 继承本项目的父工程 -->
